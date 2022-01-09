@@ -1,0 +1,7 @@
+Exercise 2.18 from the book (p. 87)
+Exercise 2.18. Design and implement a program that simulates a vending machine.
+Products can be purchased by inserting the correct number of coins into the machine.
+A user selects a product from a list of available products, adds coins, and either gets the
+product or gets the coins returned if insufficient money was supplied or if the product is
+sold out. Products can be restocked and money removed by an operator. Follow the
+design process that was described in this chapter.
